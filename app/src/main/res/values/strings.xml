@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hra</string>
+    <string name="onePlayer">Jeden hráč</string>
+    <string name="twoPlayers">Dva hráči</string>
+    <string name="score_AI">Počítač:</string>
+    <string name="score_player">Hráč:</string>
+    <string name="score_player1">Hráč 1:</string>
+    <string name="score_player2">Hráč 2:</string>
+</resources>
