@@ -1,4 +1,4 @@
-package com.example.petkof_hra;
+    package com.example.petkof_hra;
 
 import android.animation.ObjectAnimator;
 import android.content.Intent;
